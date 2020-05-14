@@ -1,0 +1,84 @@
+[True, False, True, True, True, False, 0, 0, False, False, True, True, False, False]
+Total Marks: 18
+No of left: 2
+No of correct: 6
+No of Wrong: 6
+Percentage: 2.5
+
+[True, True, True, False, False, False, True, True, True, True, True]
+Total Marks: 29
+No of left: 0
+No of correct: 8
+No of Wrong: 3
+Percentage: 4.027777777777778
+
+[True, True, True, False, False]
+Total Marks: 10
+No of left: 0
+No of correct: 3
+No of Wrong: 2
+Percentage: 1.3888888888888888
+
+[True, True, True, True, True, True, True, False, False, False, False]
+Total Marks: 24
+No of left: 0
+No of correct: 7
+No of Wrong: 4
+Percentage: 3.3333333333333335
+
+[True, True, True, True, True, False, False, False, False, False, True, True, True, True]
+Total Marks: 31
+No of left: 0
+No of correct: 9
+No of Wrong: 5
+Percentage: 4.305555555555555
+
+[True, True, True, True, True, True, False, False, True, True, True]
+Total Marks: 34
+No of left: 0
+No of correct: 9
+No of Wrong: 2
+Percentage: 4.722222222222222
+
+[True, True, True, True, False]
+Total Marks: 15
+No of left: 0
+No of correct: 4
+No of Wrong: 1
+Percentage: 2.083333333333333
+
+[True, True, False, True, True, True, False, False]
+Total Marks: 17
+No of left: 0
+No of correct: 5
+No of Wrong: 3
+Percentage: 2.361111111111111
+
+[True, True, True, True, True, False, False, True, True, True, True, True, True, 0, 0, False, True]
+Total Marks: 45
+No of left: 2
+No of correct: 12
+No of Wrong: 3
+Percentage: 6.25
+
+[True, True, False, False, True]
+Total Marks: 10
+No of left: 0
+No of correct: 3
+No of Wrong: 2
+Percentage: 1.3888888888888888
+
+[True, True, True, False, 0, True, True]
+Total Marks: 19
+No of left: 1
+No of correct: 5
+No of Wrong: 1
+Percentage: 2.638888888888889
+
+[]
+Total Marks: 0
+No of left: 0
+No of correct: 0
+No of Wrong: 0
+Percentage: 0.0
+
